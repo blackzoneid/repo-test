@@ -1,0 +1,21 @@
+git@github.com:CoinSpace/CoinSpace.git
+CoinSpace/README.md
+app	Bump version	18 days ago
+cli	Remove apple watch extension	a month ago
+phonegap	Bump version	18 days ago
+server	Update ethereum tokens limit to 50	29 days ago
+.dockerignore	Add cli	8 months ago
+.editorconfig	Add .editorconfig	a year ago
+.env.example	Remove legacy code	a month ago
+.gitignore	Minor update	8 months ago
+.jshintrc	Minor fix	a year ago
+.modernizrrc	Move to MongoDB final part	3 months ago
+.nvmrc	Update node.js version	7 months ago
+Dockerfile	Rename Coinspace to Coin	18 days ago
+GPL-LICENSE.txt	Initial commit	3 years ago
+README.md	Rename Coinspace to Coin	18 days ago
+docker-compose.yml	Replace Cloudant with MongoDB - beginning...	3 months ago
+package.json	Bump version	18 days ago
+webpack.common.js	Add more apple-app-site-association	8 months ago
+webpack.dev.js	Refactor server lib to v1 and legacy	3 months ago
+webpack.prod.js	Update bitcoinjs-lib version	6 months ago
